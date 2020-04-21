@@ -13,6 +13,23 @@
   z-index: -1;
 }
 
+.bg-words-small-bottom {
+  font-size: 2vmin;
+  font-family: sans-serif;
+  position: fixed;
+  z-index: -1;
+  margin-top: 80vmin;
+}
+
+.bg-words-small-mid {
+  font-size: 2vmin;
+  font-family: sans-serif;
+  position: fixed;
+  z-index: -1;
+  margin-top: 50vmin;
+  margin-left: 100vmin;
+}
+
 .img1 {
   width: 50%;
   object-fit: contain;
