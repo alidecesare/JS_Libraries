@@ -1,0 +1,85 @@
+.bg-words-small {
+  font-size: 2vmin;
+  font-family: sans-serif;
+  position: fixed;
+  z-index: -1;
+}
+
+.bg-words-med {
+  font-size: 4vmin;
+  font-family: sans-serif;
+  position: fixed;
+  margin-top: 30vmin;
+  z-index: -1;
+}
+
+.img1 {
+  width: 50%;
+  object-fit: contain;
+  margin-left: 10vmin;
+  display: flex;
+}
+
+.img2 {
+  width: 40%;
+  object-fit: contain;
+  margin-top: -30vmin;
+  margin-left: 70vmin;
+  display: flex;
+}
+
+.img3 {
+  width: 50%;
+  object-fit: contain;
+  margin-left: 50vmin;
+  margin-top: 7vmin;
+  display: flex;
+}
+
+.img4 {
+  width: 20%;
+  object-fit: contain;
+  margin-left: 25vmin;
+  margin-top: -40vmin;
+  display: flex;
+
+}
+
+.img5 {
+  width: 25%;
+  object-fit: contain;
+  margin-left: 120vmin;
+  display: flex;
+}
+
+.img6 {
+  width: 70%;
+  object-fit: contain;
+  margin-top: 10vmin;
+  margin-left: 10vmin;
+  display: flex;
+}
+
+.img7 {
+  width: 30%;
+  object-fit: contain;
+  margin-left: 120vmin;
+  margin-top: -80vmin;
+  display: flex;
+}
+
+.img8 {
+  width: 40%;
+  object-fit: contain;
+  margin-top: 30vmin;
+  margin-left: 90vmin;
+  display: flex;
+}
+
+.img9 {
+  width: 30%;
+  object-fit: contain;
+  margin-left: 15vmin;
+  margin-top: -30vmin;
+  display: flex;
+}
